@@ -10,7 +10,9 @@ Types of React Components
 */
 // RCC it is a class
 class App extends React.Component {
-  render() {
+  
+  
+    render() {
     return (
       <Fragment>
         <h1>Hello Walter</h1>
